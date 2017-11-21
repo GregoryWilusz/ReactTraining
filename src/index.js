@@ -9,7 +9,8 @@ import ReactDOM from 'react-dom'; // library that allows us to place our compone
 //import Lesson9 from "./Lesson9";
 //import Lesson10 from "./Lesson10";
 //import Lesson11 from "./Lesson11";
-import Lesson12 from "./Lesson12";
+//import Lesson12 from "./Lesson12";
+import Lesson13 from "./Lesson13";
 
 // ReactDOM.render(                    // używamy tego do renderowania komponentu... <app />
 //     <App cat={5}/>,   // to render that component in js format to the..
@@ -46,7 +47,11 @@ import Lesson12 from "./Lesson12";
 //     <Lesson11 />,
 //     document.getElementById('lesson11')
 // )
+// ReactDOM.render(
+//     <Lesson12 />,
+//     document.getElementById('lesson11')
+// )
 ReactDOM.render(
-    <Lesson12 />,
-    document.getElementById('lesson11')
+    <Lesson13 />,
+    document.getElementById('lesson13')
 )
