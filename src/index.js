@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom'; // library that allows us to place our compone
                                   // contexof the DOM
 // import App from './App';          // importing the component from App.js (tutaj H1 z napisem)
 // import App2 from './App2';
-import App3 from "./App3";
+// import App3 from "./App3";
 import Lesson7 from "./Lesson7";
 
 // ReactDOM.render(                    // używamy tego do renderowania komponentu... <app />
