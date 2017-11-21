@@ -10,7 +10,7 @@ class App extends React.Component {
     }
 }
 
-App.PropTypes = {
+App.propTypes = {
    txt: PropTypes.string,
    cat: PropTypes.number.isRequired
 }
