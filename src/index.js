@@ -1,6 +1,6 @@
-import React from 'react';        // library which allows us to build react component
-import ReactDOM from 'react-dom'; // library that allows us to place our components and work with them in
-                                  // contexof the DOM
+import React from 'react';// library which allows us to build react component
+import ReactDOM from 'react-dom';// library that allows us to place our components and work with them in
+                                  // contex of the DOM
 // import App from './App';          // importing the component from App.js (tutaj H1 z napisem)
 // import App2 from './App2';
 // import App3 from "./App3";
@@ -11,8 +11,10 @@ import ReactDOM from 'react-dom'; // library that allows us to place our compone
 //import Lesson11 from "./Lesson11";
 //import Lesson12 from "./Lesson12";
 // import Lesson13 from "./Lesson13";
-import Lesson14 from "./Lesson14";
-
+// import Lesson14 from "./Lesson14";
+// import Lesson15 from "./Lesson15";
+// import Lesson166 from "./Lesson166";
+import Lesson18 from "./Lesson18";
 
 
 // ReactDOM.render(                    // używamy tego do renderowania komponentu... <app />
@@ -58,7 +60,19 @@ import Lesson14 from "./Lesson14";
 //     <Lesson13 />,
 //     document.getElementById('lesson13')
 // )
+// ReactDOM.render(
+//     <Lesson14 />,
+//     document.getElementById('lesson14')
+// )
+// ReactDOM.render(
+//     <Lesson15 />,
+//     document.getElementById('lesson15')
+// )
+// ReactDOM.render(
+//     <Lesson166 />,
+//     document.getElementById('lesson166')
+// )
 ReactDOM.render(
-    <Lesson14 />,
-    document.getElementById('lesson14')
+    <Lesson18 />,
+    document.getElementById('lesson18')
 )
